@@ -9,7 +9,7 @@ I'am from Srinagar Garhwal Uttarakhand ,I switched after graduating in Biochemis
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shivansh3218&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh3218&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Total Profile Views!: (https://profile-counter.glitch.me/{username}/count.svg)
+### Total Profile Views!: ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 ### ✍️ Favourite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
